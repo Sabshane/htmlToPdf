@@ -1,0 +1,11 @@
+{
+  "name": "HtmlToPdf",
+  "version": "1.0.0",
+  "author": "Sabshane",
+  "dependencies": {
+    "puppeteer": "^19.2.2"
+  },
+  "scripts": {
+    "convert": "node toPdf"
+  }
+}
